@@ -23,18 +23,18 @@ Version 2.0 - 11/20/2017
 
  - New features:
 
-   > cagr      - Compound annual growth rate
-   > ci        - Compound interest
-   > discfact  - Discount factor
-   > cdiscfact - Cumulative discount factor
-   > iar       - Inflation adjusted return
-   > lr        - Leverage ratio
-   > paybper   - Payback period
-   > profidx   - Profitability index
-   > r72       - Rule of 72
-   > roi       - Return on investment
-   > tdinv     - Time to double investment (real alternative: r72)
-   > wacc      - Weighted average cost of capital
+   cagr      - Compound annual growth rate
+   ci        - Compound interest
+   discfact  - Discount factor
+   cdiscfact - Cumulative discount factor
+   iar       - Inflation adjusted return
+   lr        - Leverage ratio
+   paybper   - Payback period
+   profidx   - Profitability index
+   r72       - Rule of 72
+   roi       - Return on investment
+   tdinv     - Time to double investment (real alternative: r72)
+   wacc      - Weighted average cost of capital
 
 
 Version 1.0 - 05/25/2017
