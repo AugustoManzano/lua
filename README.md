@@ -6,7 +6,6 @@ El archivo "finan.lua" posee un gran conjunto de funcionalidades destinadas a la
 
 O arquivo  "finan.lua"  possui um grande conjunto de funcionalidades destinadas a execução de cálculos financeiros.
 
-
 acrateinflat ..: acumulated rate of inflation
 apptrate ......: apparent rate
 cagr ..........: compound annual growth rate
