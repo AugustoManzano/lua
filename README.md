@@ -1,1 +1,2 @@
-# lua
+#  Biblioteca financeira para linguagem Lua
+
