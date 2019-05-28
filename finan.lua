@@ -625,8 +625,7 @@
    end
 
 -- Function: spcdiscpv
--- Target: Calc. the imple commercial discount on 
---            present value.
+-- Target: Calc. the simple commercial discount on present value.
 
    function spcdiscpv(fv, i, n)
      return fv * (1 - i * n)
@@ -661,18 +660,18 @@
      return fv / (1 + i * n)
    end
 
--- Function: tdinv()
--- Target: Calculate double time investment.
-
-   function tdinv(i)
-     return log(2) / log(1 + i)
-   end
-
 -- Function: syd
 -- Target: Calc. the sum of the years digits depreciation allowance.
 
    function syd(cost, salvage, life, period)
      return (cost - salvage) * (life - period + 1) / (life * (life + 1) / 2)
+   end
+
+-- Function: tdinv()
+-- Target: Calculate double time investment.
+
+   function tdinv(i)
+     return log(2) / log(1 + i)
    end
 
 -- Function: term
