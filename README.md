@@ -1,4 +1,4 @@
-#  Biblioteca financeira para linguagem Lua
+# Financial library for "Lua language"
 
 The file "finan.lua" has a large set of functionalities designed to perform financial calculations.
 
