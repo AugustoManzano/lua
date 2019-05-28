@@ -304,7 +304,7 @@
 -- Function: inflatrate
 -- Target: Calc. the Inflation rate.
 
-   function inflatrate(prc1, prc2) -- Taxa de inflação
+   function inflatrate(prc1, prc2) -- Taxa de inflaÃ§Ã£o
      return (prc2 / prc1) - 1
    end
 
@@ -414,7 +414,7 @@
    end
 
 -- Function: npv
--- Target: Calc. the net present value of a series of future cash. 
+-- Target: Calc. the present value of a series of future cash. 
 
    function npv(i, range, length)
      cnpv = 0.0
@@ -497,7 +497,7 @@
      return cpmtc
    end
 
--- Function: pmtcan
+-- Function: pmtusa
 -- Target: Calc. the montly loan payments according to USA.
 
    function pmtusa(pv, i, n)
